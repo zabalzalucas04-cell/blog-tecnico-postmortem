@@ -1,4 +1,4 @@
-# 🛠️ Post-Mortem de Operaciones: Rediseño del Sistema de Trazabilidad y Marcado de Números de Serie para Escalabilidad Industrial
+# Post-Mortem de Operaciones: Rediseño del Sistema de Trazabilidad y Marcado de Números de Serie para Escalabilidad Industrial
 
 **Autor:** Lucas Zabalza
 **Rol:** Responsable de Ingeniería de Procesos / Calidad  
