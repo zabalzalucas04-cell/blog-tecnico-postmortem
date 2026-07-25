@@ -4,7 +4,7 @@
 **Rol:** Responsable de Ingeniería de Procesos / Calidad  
 **Área:** Planta de Producción  
 **Fecha:** 25 de Julio de 2026  
-**Repositorio de Documentación:** [github.com/tu-usuario/blog-tecnico](https://github.com/tu-usuario/blog-tecnico)
+**Repositorio de Documentación:** https://github.com/zabalzalucas04-cell/blog-tecnico-postmortem
 
 ---
 
