@@ -50,8 +50,8 @@ Para resolver el desafío, organizamos mesas de trabajo interdepartamentales (Pr
 ### 3.2 Estructura del Nuevo Esquema de Numeración Seleccionado
 Se diseñó un formato estándar de 12 caracteres alfanuméricos:
 
-$$\text{Formato: } \underbrace{\text{AC}}_{\text{Línea}} - \underbrace{\text{01}}_{\text{Modelo}} - \underbrace{\text{2630}}_{\text{Año / Semana}} - \underbrace{\text{0001}}_{\text{Secuencia}}$$
-
+Formato: [Línea] - [Modelo] - [Año/Semana] - [Secuencia]
+Ejemplo: AC - 01 - 2630 - 0001
 > **Ejemplo:** `AC-01-2630-0145`  
 > *Identifica un producto de la Línea **Alpha-Control**, Modelo **01**, fabricado en el **año 2026, semana 30**, unidad **145**.*
 
