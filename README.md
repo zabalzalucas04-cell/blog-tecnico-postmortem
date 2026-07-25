@@ -1,6 +1,6 @@
 # 🛠️ Post-Mortem de Operaciones: Rediseño del Sistema de Trazabilidad y Marcado de Números de Serie para Escalabilidad Industrial
 
-**Autor:** [Tu Nombre Completo]  
+**Autor:** Lucas Zabalza
 **Rol:** Responsable de Ingeniería de Procesos / Calidad  
 **Área:** Planta de Producción  
 **Fecha:** 25 de Julio de 2026  
