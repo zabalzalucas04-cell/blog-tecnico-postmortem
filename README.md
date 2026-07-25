@@ -66,11 +66,7 @@ Presentamos la **Propuesta B** ante la Dirección General sustentando el Retorno
 
 ## 4. Evidencia en Control de Versiones (Git Workflow)
 
-Para mantener la estandarización y evitar que la documentación del proceso quede desactualizada en carpetas locales, implementamos **Git** como repositorio de los Procedimientos Operativos Estándar (SOP) y arquitecturas de numeración:
-
-* 🔀 **Pull Request de Propuestas:** [PR #12: Propuestas de marcado y estructura de numeración de serie v2.0](https://github.com/tu-usuario/blog-tecnico/pull/1) *(Reemplazar con tu enlace)*
-* 📌 **Commit de Estándar Aprobado:** `git commit -m "docs(sop): agrega manual de marcado laser y estructura alfanumerica aprobada"`
-* 📌 **Commit de Script de Integración:** `git commit -m "feat(erp): agrega script de validacion de estructura de serie para lector 2D"`
+Para mantener la estandarización y evitar que la documentación del proceso quede desactualizada en carpetas locales, implementamos **Git** como repositorio de los Procedimientos Operativos Estándar (SOP) y arquitecturas de numeración.
 
 ---
 
